@@ -6,6 +6,7 @@ SnapKit is a DSL to make Auto Layout easy on both iOS and OS X.
 [![Platform](https://img.shields.io/cocoapods/p/SnapKit.svg?style=flat)](https://github.com/SnapKit/SnapKit)
 [![Cocoapods Compatible](https://img.shields.io/cocoapods/v/SnapKit.svg)](https://cocoapods.org/pods/SnapKit)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![Accio supported](https://img.shields.io/badge/Accio-supported-0A7CF5.svg?style=flat)](https://github.com/JamitLabs/Accio)
 
 #### ⚠️ **To use with Swift 3.x please ensure you are using >= 3.0.0** ⚠️ 
 #### ⚠️ **To use with Swift 4.x please ensure you are using >= 4.0.0** ⚠️ 
